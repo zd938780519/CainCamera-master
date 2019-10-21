@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "E:\\androidStudio\\CainCamera-master\\gdxlibrary\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\gdxlibrary\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "nativegdx-Debug-arm64-v8a": {
+      "artifactName": "nativegdx",
+      "buildCommand": "E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\gdxlibrary\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target nativegdx",
+      "abi": "arm64-v8a",
+      "output": "E:\\androidStudio\\CainCamera-master\\gdxlibrary\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnativegdx.so"
+    }
+  }
+}

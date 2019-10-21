@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "E:/androidStudio/CainCamera-master/gdxlibrary/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\gdxlibrary\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"nativegdx-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "nativegdx",
+			"buildCommand" : "E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\gdxlibrary\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target nativegdx",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativegdx_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/gdxlibrary/src/main/cpp/Matrix4.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/gdxlibrary/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "E:/androidStudio/CainCamera-master/gdxlibrary/build/intermediates/cmake/debug/obj/armeabi-v7a/libnativegdx.so",
+			"toolchain" : "3552899727"
+		}
+	},
+	"toolchains" : 
+	{
+		"3552899727" : 
+		{
+			"cCompilerExecutable" : "E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

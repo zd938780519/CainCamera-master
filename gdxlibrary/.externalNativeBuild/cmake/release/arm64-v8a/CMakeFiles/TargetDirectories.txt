@@ -1,0 +1,3 @@
+E:/androidStudio/CainCamera-master/gdxlibrary/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/nativegdx.dir
+E:/androidStudio/CainCamera-master/gdxlibrary/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/androidStudio/CainCamera-master/gdxlibrary/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

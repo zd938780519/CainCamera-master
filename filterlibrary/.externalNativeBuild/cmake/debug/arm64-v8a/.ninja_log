@@ -1,0 +1,18 @@
+# ninja log v5
+0	1612	0	CMakeFiles/nativefilter.dir/nativefilter/ColorQuantizeFilter.cpp.o	eee007bf1ce45325
+243	1926	0	CMakeFiles/nativefilter.dir/nativefilter/GaussianBlurFilter.cpp.o	41787409ea7c53e0
+484	2187	0	CMakeFiles/nativefilter.dir/nativefilter/BlackWhiteFilter.cpp.o	4a4d2e6e8a8d6621
+726	2435	0	CMakeFiles/nativefilter.dir/nativefilter/FilterUtils.cpp.o	b6bdbb60de5313d0
+972	2690	0	CMakeFiles/nativefilter.dir/nativefilter/BlendFilter.cpp.o	fcf7d771622299ac
+1265	2939	0	CMakeFiles/nativefilter.dir/common/Point.cpp.o	225fc1b5ea2c095d
+1613	3189	0	CMakeFiles/nativefilter.dir/nativefilter/BrightContrastFilter.cpp.o	42e6f81af3a89675
+1927	3435	0	CMakeFiles/nativefilter.dir/nativefilter/StackBlurFilter.cpp.o	f732f15dba25e4b0
+2188	3720	0	CMakeFiles/nativefilter.dir/nativefilter/InvertFilter.cpp.o	2157c757c4e23737
+2435	3985	0	CMakeFiles/nativefilter.dir/ImageFilterController.cpp.o	3da911071c8edd0a
+2690	4236	0	CMakeFiles/nativefilter.dir/nativefilter/LookupTableFilter.cpp.o	a17c0854774d7a68
+2939	4237	0	CMakeFiles/nativefilter.dir/nativefilter/ImageFilter.cpp.o	37c1acc7af52bda3
+3189	4238	0	CMakeFiles/nativefilter.dir/nativefilter/MosaicFilter.cpp.o	ca51ed48ff7d6c3e
+3435	4417	0	CMakeFiles/nativefilter.dir/nativefilter/ShiftFilter.cpp.o	9cc6e040eff628e4
+3720	4618	0	CMakeFiles/nativefilter.dir/nativefilter/VignetteFilter.cpp.o	48c8f186a5a8f3af
+3986	5224	0	CMakeFiles/nativefilter.dir/nativefilter/HistogramEqualFilter.cpp.o	ef9802fba676a96a
+5224	5881	0	E:/androidStudio/CainCamera-master/filterlibrary/build/intermediates/cmake/debug/obj/arm64-v8a/libnativefilter.so	5ae25b278b89dbf1

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "E:\\androidStudio\\CainCamera-master\\gdxlibrary\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\gdxlibrary\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "nativegdx-Release-armeabi-v7a": {
+      "artifactName": "nativegdx",
+      "buildCommand": "E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\gdxlibrary\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target nativegdx",
+      "abi": "armeabi-v7a",
+      "output": "E:\\androidStudio\\CainCamera-master\\gdxlibrary\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libnativegdx.so"
+    }
+  }
+}

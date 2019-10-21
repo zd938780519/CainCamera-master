@@ -1,0 +1,17 @@
+[1/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/ColorQuantizeFilter.cpp.o
+[2/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/GaussianBlurFilter.cpp.o
+[3/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/BlackWhiteFilter.cpp.o
+[4/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/FilterUtils.cpp.o
+[5/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/BlendFilter.cpp.o
+[6/17] Building CXX object CMakeFiles/nativefilter.dir/common/Point.cpp.o
+[7/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/BrightContrastFilter.cpp.o
+[8/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/StackBlurFilter.cpp.o
+[9/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/InvertFilter.cpp.o
+[10/17] Building CXX object CMakeFiles/nativefilter.dir/ImageFilterController.cpp.o
+[11/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/LookupTableFilter.cpp.o
+[12/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/ImageFilter.cpp.o
+[13/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/MosaicFilter.cpp.o
+[14/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/ShiftFilter.cpp.o
+[15/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/VignetteFilter.cpp.o
+[16/17] Building CXX object CMakeFiles/nativefilter.dir/nativefilter/HistogramEqualFilter.cpp.o
+[17/17] Linking CXX shared library E:\androidStudio\CainCamera-master\filterlibrary\build\intermediates\cmake\debug\obj\arm64-v8a\libnativefilter.so

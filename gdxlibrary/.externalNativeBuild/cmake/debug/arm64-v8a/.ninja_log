@@ -1,0 +1,5 @@
+# ninja log v5
+0	1289	0	CMakeFiles/nativegdx.dir/src/main/cpp/Matrix4.cpp.o	50c4749d6aab6b50
+1290	1949	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnativegdx.so	254b826465fc3e2
+2	983	0	CMakeFiles/nativegdx.dir/src/main/cpp/Matrix4.cpp.o	50c4749d6aab6b50
+984	1568	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnativegdx.so	254b826465fc3e2

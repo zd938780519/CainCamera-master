@@ -1,0 +1,131 @@
+
+{
+	"buildFiles" : 
+	[
+		"E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\filterlibrary\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"nativefilter-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "nativefilter",
+			"buildCommand" : "E:\\android\\android-sdk-windows\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\androidStudio\\CainCamera-master\\filterlibrary\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target nativefilter",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/common/Point.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/FilterUtils.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/BlendFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/BlackWhiteFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/BrightContrastFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/ColorQuantizeFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/GaussianBlurFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/HistogramEqualFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/ImageFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/InvertFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/LookupTableFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/MosaicFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/ShiftFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/StackBlurFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/nativefilter/VignetteFilter.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnativefilter_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/androidStudio/CainCamera-master/filterlibrary/src/main/cpp/ImageFilterController.cpp",
+					"workingDirectory" : "E:/androidStudio/CainCamera-master/filterlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "E:/androidStudio/CainCamera-master/filterlibrary/build/intermediates/cmake/release/obj/armeabi-v7a/libnativefilter.so",
+			"toolchain" : "3552899727"
+		}
+	},
+	"toolchains" : 
+	{
+		"3552899727" : 
+		{
+			"cCompilerExecutable" : "E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "E:/android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+Executable : E:\android\android-sdk-windows\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HE:\androidStudio\CainCamera-master\gdxlibrary
+-BE:\androidStudio\CainCamera-master\gdxlibrary\.externalNativeBuild\cmake\release\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\androidStudio\CainCamera-master\gdxlibrary\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=E:\android\android-ndk-r20
+-DCMAKE_CXX_FLAGS=-std=c++11
+-DCMAKE_TOOLCHAIN_FILE=E:\android\android-ndk-r20\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=E:\android\android-sdk-windows\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
